@@ -22,7 +22,7 @@ Table of Contents
 * [Wildcard Injection](#wild)
 * [Capabilities](#capabilities)
 * [Writable /etc/passwd file](#etc)
-* [Writable files or script as root](#root)
+* [Writable files or script](#root)
 * [Buffer Overflow](#buffer)
 * [Docker](#docker)
 * [Chkrootkit](#chkrootkit)
@@ -93,6 +93,10 @@ Table of Contents
 |50.|[BlackRose: 1](https://www.hackingarticles.in/blackrose-1-vulnhub-walkthrough/)|script|
 |51.|[So Simple:1](https://www.hackingarticles.in/so-simple1-vulnhub-walkthrough/)|script|
 |52.|[CryptoBank:1](https://www.hackingarticles.in/cryptobank-1-vulnhub-walkthrough/)|All|
+|53.|[Star Wars:1](https://www.hackingarticles.in/star-wars-1-vulnhub-walkthrough/)|All|
+|54.|[Mercury](https://www.hackingarticles.in/mercury-vulnhub-walkthrough/)|script|
+|55.|[Durian:1](https://www.hackingarticles.in/durian-1-vulnhub-walkthrough/)|script|
+
 
 <a name="suid"></a>
 ##  SUID Bit [⤴](#table-of-contents)
@@ -121,6 +125,7 @@ Table of Contents
 |20.|[eLection: 1](https://www.hackingarticles.in/election-1-vulnhub-walkthorugh/)|script|
 |21.|[Photographer 1](https://www.hackingarticles.in/photographer-1-vulnhub-walkthrough/)|php7.2|
 |22.|[DMV :1](https://www.hackingarticles.in/dmv-1-vulnhub-walkthrough/)| script|
+|23.|[ShellDredd #1 Hannah](https://www.hackingarticles.in/shelldredd-1-hannah-vulnhub-walkthrough/)| cpulimit|
 
 <a name="kernel"></a>
 ##  Kernel Exploit [⤴](#table-of-contents)
@@ -184,6 +189,7 @@ Table of Contents
 |12.| [MuzzyBox:1](https://www.hackingarticles.in/muzzybox-1-vulnhub-walkthrough/)|ls|
 |13.| [TBBT:2](https://www.hackingarticles.in/tbbt2-vulnhub-walkthrough/)|sl|
 |14.| [Sunset: Midnight](https://www.hackingarticles.in/sunset-midnight-vulnhub-walkthrough/)|service|
+|15.| [Healthcare:1](https://www.hackingarticles.in/healthcare-1-vulnhub-walkthrough/)|fdisk|
 
 
 <a name="enum"></a>
@@ -234,7 +240,9 @@ Table of Contents
 | 42.  | [2much:1](https://www.hackingarticles.in/2much-1-vulnhub-walkthrough/)|
 | 43.  | [mhz_cxf:c1f](https://www.hackingarticles.in/mhz_cxf-c1f-vulnhub-walkthrough/)|
 | 44.  | [HA: Pandavas](https://www.hackingarticles.in/ha-pandavas-vulnhub-walkthrough/)|
-| 45.  | [GreenOptic: 1](https://www.hackingarticles.in/greenoptic-1-vulnhub-walkthrough/)|
+| 45.  | [GreenOptic:1](https://www.hackingarticles.in/greenoptic-1-vulnhub-walkthrough/)|
+| 46.  | [Cewlkid:1](https://www.hackingarticles.in/cewlkid-1-vulnhub-walkthrough/)|
+| 47.  | [PowerGrid:1.0.1](https://www.hackingarticles.in/powergrid-1-0-1-vulnhub-walkthrough/)|
 
 <a name="mysql"></a>
 ##  MySQL [⤴](#table-of-contents)
@@ -294,7 +302,7 @@ Table of Contents
 |12. |[Chili:1](https://www.hackingarticles.in/chili-1-vulnhub-walkthrough/)|
 
 <a name="root"></a>
-##  Writable files or script as root [⤴](#table-of-contents)
+##  Writable files or script [⤴](#table-of-contents)
 | No | Machine Name                                                                                            |
 |----|---------------------------------------------------------------------------------------------------------|
 |1.	 |[Skydog](https://www.hackingarticles.in/hack-skydog-vm-ctf-challenge/)|
@@ -313,6 +321,8 @@ Table of Contents
 |14. |[View2aKill](https://www.hackingarticles.in/view2akill-vulnhub-walkthrough/)|
 |15. |[CengBox:1](https://www.hackingarticles.in/cengbox-1-vulnhub-walkthrough/)|
 |16. |[Broken 2020: 1](https://www.hackingarticles.in/broken-2020-1-vulnhub-walkthrough/)|
+|17. |[CengBox:2](https://www.hackingarticles.in/cengbox-2-vulnhub-walkthrough/)|
+|18. |[HA:Narak](https://www.hackingarticles.in/ha-narak-vulnhub-walkthrough/)|
 
 <a name="buffer"></a>
 ##  Buffer Overflow [⤴](#table-of-contents)
