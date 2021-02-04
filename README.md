@@ -3,7 +3,7 @@
 This cheatsheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with examples. It is not a cheatsheet for Enumeration using Linux Commands. Privilege escalation is all about proper enumeration. There are multiple ways to perform the same tasks. We have performed and compiled this list on our experience. Please share this with your connections and direct queries and feedback to [Pavandeep Singh](https://twitter.com/pavan2318).
 
 [1.1]: http://i.imgur.com/tXSoThF.png
-[1]: http://www.twitter.com/rajchandel
+[1]: http://www.twitter.com/hackinarticles
 # Follow us on [![alt text][1.1]][1]
 
 <img src="https://user-images.githubusercontent.com/23155361/93634827-dfd53700-fa0e-11ea-8110-77406a1b2661.png" alt="cheatsheet" border="0">
@@ -96,6 +96,12 @@ Table of Contents
 |53.|[Star Wars:1](https://www.hackingarticles.in/star-wars-1-vulnhub-walkthrough/)|All|
 |54.|[Mercury](https://www.hackingarticles.in/mercury-vulnhub-walkthrough/)|script|
 |55.|[Durian:1](https://www.hackingarticles.in/durian-1-vulnhub-walkthrough/)|script|
+|56.|[nyx:1](https://www.hackingarticles.in/nyx-1-vulnhub-walkthrough/)|gcc|
+|57.|[Relevant:1](https://www.hackingarticles.in/relevant-1-vulnhub-walkthrough/)|node|
+|58.|[Maskcrafter:1.1](https://www.hackingarticles.in/maskcrafter-1-1-vulnhub-walkthrough/)|dpkg|
+|59.|[Hogwarts:Bellatrix](https://www.hackingarticles.in/hogwarts-bellatrix-vulnhub-walkthrough/)|vim|
+
+
 
 
 <a name="suid"></a>
@@ -126,6 +132,8 @@ Table of Contents
 |21.|[Photographer 1](https://www.hackingarticles.in/photographer-1-vulnhub-walkthrough/)|php7.2|
 |22.|[DMV :1](https://www.hackingarticles.in/dmv-1-vulnhub-walkthrough/)| script|
 |23.|[ShellDredd #1 Hannah](https://www.hackingarticles.in/shelldredd-1-hannah-vulnhub-walkthrough/)| cpulimit|
+|24.|[KB-Vuln:3](https://www.hackingarticles.in/kb-vuln-3-vulnhub-walkthrough/)| systemctl|
+|25.|[Cybox:1](https://www.hackingarticles.in/cybox-1-vulnhub-walkthrough/)| register|
 
 <a name="kernel"></a>
 ##  Kernel Exploit [⤴](#table-of-contents)
@@ -203,7 +211,7 @@ Table of Contents
 | 4.   | [LAMPSecurity: CTF 7](https://www.hackingarticles.in/hack-the-lampsecurity-ctf-7-ctf-challenge/)                      |
 | 5.   | [Xerxes: 1](https://www.hackingarticles.in/xerxes-1-vulnhub-walkthrough/)                                             |
 | 6.   | [pWnOS -2.0](https://www.hackingarticles.in/hack-the-pwnos-2-0-boot-2-root-challenge/)                                |
-| 7.   | [DE-ICE:S1.130](https://www.hackingarticles.in/hack-the-de-ice-s1-130-boot2root-challenge/)                   |                                                | 8.   | [SickOS 1.1](https://www.hackingarticles.in/hack-sickos-1-1-vm-ctf-challenge/)                              |          
+| 7.   | [DE-ICE:S1.130](https://www.hackingarticles.in/hack-the-de-ice-s1-130-boot2root-challenge/)                   |                                                | 8.   | | 8.   | [SickOS 1.1](https://www.hackingarticles.in/hack-sickos-1-1-vm-ctf-challenge/)                              |          
 | 9.   | [Tommyboy](https://www.hackingarticles.in/hack-tommyboy-vm-ctf-challenge/)                                    |
 | 10.  | [VulnOS: 1](https://www.hackingarticles.in/hack-the-vulnos-1-ctf-challenge/)                                          |
 | 11.  | [Spyder Sec](https://www.hackingarticles.in/hack-spydersec-vm-ctf-challenge/)                                         |
@@ -243,6 +251,11 @@ Table of Contents
 | 45.  | [GreenOptic:1](https://www.hackingarticles.in/greenoptic-1-vulnhub-walkthrough/)|
 | 46.  | [Cewlkid:1](https://www.hackingarticles.in/cewlkid-1-vulnhub-walkthrough/)|
 | 47.  | [PowerGrid:1.0.1](https://www.hackingarticles.in/powergrid-1-0-1-vulnhub-walkthrough/)|
+| 48.  | [Insanity:1](https://www.hackingarticles.in/insanity-1-vulnhub-walkthrough/)|
+| 49.  | [Tempus Fugit:3](https://www.hackingarticles.in/tempus-fugit-3-vulnhub-walkthrough/)|
+| 50.  | [HA: Forensics](https://www.hackingarticles.in/ha-forensics-vulnhub-walkthrough/)|
+| 51.  | [HA: Vedas](https://www.hackingarticles.in/ha-vedas-vulnhub-walkthrough/)|
+| 52.  | [HA: Sherlock](https://www.hackingarticles.in/ha-sherlock-vulnhub-walkthrough/)|
 
 <a name="mysql"></a>
 ##  MySQL [⤴](#table-of-contents)
@@ -344,10 +357,11 @@ Table of Contents
 |----|---------------------------------------------------------------------------------------------------------|
 |1.	 |[Donkey Docker](https://www.hackingarticles.in/hack-donkeydocker-ctf-challenge/)|
 |2.	 |[Game of Thrones](https://www.hackingarticles.in/hack-game-thrones-vm-ctf-challenge/)|
-|3.	 |[HackinOS : 1](https://www.hackingarticles.in/hackinos1-vulnhub-lab-walkthrough/)|
+|3.	 |[HackinOS:1](https://www.hackingarticles.in/hackinos1-vulnhub-lab-walkthrough/)|
 |4.  |[HA: Chakravyuh](https://www.hackingarticles.in/ha-chakravyuh-vulnhub-walkthrough/)|
 |5.  |[Mumbai:1](https://www.hackingarticles.in/mumbai1-vulnhub-walkthrough/)|
-|6.  |[Sunset: dusk](https://www.hackingarticles.in/sunset-dusk-vulnhub-walkthrough/)|
+|6.  |[Sunset:dusk](https://www.hackingarticles.in/sunset-dusk-vulnhub-walkthrough/)|
+|7.  |[Pwned:1](https://www.hackingarticles.in/pwned-1-vulnhub-walkthorugh/)|
 
 <a name="chkrootkit"></a>
 ##  Chkrootkit [⤴](#table-of-contents)
